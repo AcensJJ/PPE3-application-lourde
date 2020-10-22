@@ -1,6 +1,6 @@
 # PPE3-application-lourde
 
-Application lourde du projet PPE 3.
+Application lourde du projet <a href="https://github.com/AcensJJ/PPE3">PPE 3</a>.
 
 L'application lourde étant réalisé en c#, devait permettre d'accéder à la base de données du site e-commerce (<a href="https://github.com/AcensJJ/PPE3">PPE 3</a>)
 et de la modifier.
