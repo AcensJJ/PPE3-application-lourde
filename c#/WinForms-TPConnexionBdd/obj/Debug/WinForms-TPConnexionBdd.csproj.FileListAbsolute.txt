@@ -1,0 +1,47 @@
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.exe.config
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.exe
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.pdb
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\bin\Debug\MySql.Data.dll
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\bin\Debug\MySql.Data.xml
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csprojResolveAssemblyReference.cache
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms_TPConnexionBdd.FrmMain.resources
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms_TPConnexionBdd.Properties.Resources.resources
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csproj.GenerateResource.Cache
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.exe
+D:\Thierry\_Lycée\2016 - 2017\SIO2 SLAM4\06 - Accès aux données\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.pdb
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.exe.config
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.exe
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.pdb
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\bin\Debug\MySql.Data.xml
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csprojAssemblyReference.cache
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms_TPConnexionBdd.FrmMain.resources
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms_TPConnexionBdd.Properties.Resources.resources
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csproj.GenerateResource.cache
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csproj.CoreCompileInputs.cache
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csproj.CopyComplete
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.exe
+C:\Users\jjjeu\Documents\WinForms-TPConnexionBdd\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.pdb
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csprojAssemblyReference.cache
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\obj\Debug\WinForms_TPConnexionBdd.FrmMain.resources
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\obj\Debug\WinForms_TPConnexionBdd.Properties.Resources.resources
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csproj.GenerateResource.cache
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csproj.CoreCompileInputs.cache
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.exe
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.pdb
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.exe.config
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.exe
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.pdb
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\bin\Debug\MySql.Data.xml
+C:\Users\jjjeu\Documents\PPE4 app c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csproj.CopyComplete
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.exe.config
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.exe
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\bin\Debug\WinForms-TPConnexionBdd.pdb
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\bin\Debug\MySql.Data.xml
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csprojAssemblyReference.cache
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\obj\Debug\WinForms_TPConnexionBdd.FrmMain.resources
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\obj\Debug\WinForms_TPConnexionBdd.Properties.Resources.resources
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csproj.GenerateResource.cache
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csproj.CoreCompileInputs.cache
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.csproj.CopyComplete
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.exe
+C:\Users\jjjeu\Documents\PPE4 app c#\c#\WinForms-TPConnexionBdd\obj\Debug\WinForms-TPConnexionBdd.pdb
