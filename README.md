@@ -1,4 +1,4 @@
-# PPE3-application-lourde
+# PPE3-backend
 
 Application lourde du projet <a href="https://github.com/AcensJJ/PPE3">PPE 3</a>.
 
